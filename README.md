@@ -12,16 +12,19 @@ We are using gatsby to generate static site from dynamic content.
 4. Open `localhost:8000` in browser to see the website, Gatsby will start a hot-reloading dev env so you don't need to refresh on every change.
 
 ### Reporting Bugs and Issues
-If you think you've found a bug, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
+
+> [submit bugs](https://github.com/RootedGlobal/gatsby-starter-default/issues)
+
+If you think you've found a bug, go ahead and [create a new GitHub issue](https://github.com/RootedGlobal/gatsby-starter-default/issues). Be sure to include as much information as possible so we can reproduce the bug.
 
 
 ### Contributing
 
 > ### [Please follow these steps to contribute.](CONTRIBUTING.md)
 
-- Star our [GitHub Repository](https://github.com/narainsagar/node-casperjs-aws-lambda) ⭐
-- Fork our [GitHub Repository](https://github.com/narainsagar/node-casperjs-aws-lambda) 👈
-- Create [pull requests](https://github.com/narainsagar/node-casperjs-aws-lambda/pulls), [submit bugs](https://github.com/narainsagar/node-casperjs-aws-lambda/issues), suggest new features or documentation updates 🔧
+- Star our [GitHub Repository](https://github.com/RootedGlobal/gatsby-starter-default) ⭐
+- Fork our [GitHub Repository](https://github.com/RootedGlobal/gatsby-starter-default) 👈
+- Create [pull requests](https://github.com/RootedGlobal/gatsby-starter-default/pulls), suggest new features or documentation updates 🔧
 
 ## About Me
 
